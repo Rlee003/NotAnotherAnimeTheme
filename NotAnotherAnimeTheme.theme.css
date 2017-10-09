@@ -4,7 +4,7 @@
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=app] {
-    background: url(https://raw.githubusercontent.com/WhatDaPuck/NotAnotherAnimeTheme/master/image/PTT4OKi.jpg) !important;
+    background: url(https://cdn.discordapp.com/attachments/177049235026477056/366798171961032731/Seventeen.jpg) !important;
     background-size: cover !important;
 }
 
@@ -12,13 +12,13 @@
 /*THIS CHANGES THE COLOR OF THE UNREAD NOTIFICATION*/
 .guilds-wrapper .guilds .guild.unread:not(.selected):before,
 .guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
-    background: #43b581;    /*change this to any hex code you want*/
+    background: #91c2ff;    /*change this to any hex code you want*/
 }
 
 
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
-    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/26/64/b5/2664b58e5882ff735aef9019d7f2bd3e.jpg)
+    background-image: url(https://cdn.discordapp.com/attachments/347913261389316097/367008554227335168/ChanWhy.jpg)
 }
 
 
